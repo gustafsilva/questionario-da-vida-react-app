@@ -1,0 +1,11 @@
+.subtitle {
+  font-size: 15px;
+}
+
+footer {
+  position: absolute;
+  height: 20px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
